@@ -3,7 +3,7 @@ Base de conhecimento contendo sintaxe de algumas linguagens com base em meu pont
 
 # Veja a Demonstração 
 **Hospedagem InfiniteFree**
-[Visualizar](knowledgesample.epizy.com) 
+[Visualizar](http://knowledgesample.epizy.com/) 
 
 # Comandos Básicos
 
