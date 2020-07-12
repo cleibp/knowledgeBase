@@ -1,9 +1,8 @@
 # knowledgeBase
 Base de conhecimento contendo sintaxe de algumas linguagens com base em meu ponto de vista
 
-# Veja a Demonstração 
-**Hospedagem InfiniteFree**
-[Visualizar](http://knowledgesample.epizy.com/) 
+# Demonstração
+[Visualizar](https://cleibp.github.io/knowledgeBase/) 
 
 # Comandos Básicos
 
