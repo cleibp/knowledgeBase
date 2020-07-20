@@ -527,23 +527,6 @@ esc j
 esc shift v
 
 ```
-**Não sei**
-```
-esc v
-esc y
-esc d
-esc p
-esc yy
-esc 8yy
-esc ggVG
-esc dd
-esc u
-esc : split arquivo.txt
-shift + ctrl  + c
-shift + ctrl + v
-
-```
-
 
 ### REDES
 
