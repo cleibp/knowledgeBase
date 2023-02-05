@@ -57,7 +57,6 @@ Base de conhecimento contendo sintaxe de algumas linguagens
 
 ```sh
 .
-├── main.p
 ├── README.md
 ```
 
