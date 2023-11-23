@@ -57,7 +57,21 @@ Base de conhecimento contendo sintaxe de algumas linguagens
 
 ```sh
 .
+├── docs
+    ├── about.md
+    └── index.md
+├── site
+    ├── about.md
+    ├── css
+    ├── fonts
+    ├── img
+    ├── js
+    ├── mkdocs
+    ├── 404.html
+    ├── index.html
+    ├── sitemap.xml  
 ├── README.md
+
 ```
 
 ## 👋🏽 DEMO
